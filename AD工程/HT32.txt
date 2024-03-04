@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\desktop\AD硬件大师的私房菜\合泰HT32\HT32\HT32.PcbDoc
+Date         : 2022/3/26
+Time         : 11:42:09
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 181
+    Connections routed, 181
+    Connections remaining, 0
+count : 4

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\desktop\AD硬件大师的私房菜\合泰HT32\HT32\HT32.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ht32-roundholes.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ht32-slotholes.txt|DrillLayers=gtl,gp1,g1,gbl
